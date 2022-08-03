@@ -1,0 +1,57 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* table css start */
+table th,
+tr,
+td {
+    border: 1px solid green
+}
+
+table {
+    margin: auto;
+}
+
+/* table css end */
+/* one css start */
+#one {
+    background-color: #273a71;
+    width: 500px;
+    margin: auto;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+}
+
+#one form input {
+    width: 92%;
+    padding: 24px;
+    margin: 7px;
+    color: black;
+    font-weight: 400;
+    background-color: #ffffff;
+    border: none;
+    outline: none;
+}
+
+#two button {
+    margin-right: 30px;
+    width: 250px;
+    height: 70px;
+    border-radius: 6px;
+    background-color: #5b7bd7;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 24px;
+    line-height: 45px;
+    color:#ffffff;
+     text-align: center;
+     cursor: pointer;
+
+
+}
