@@ -1,6 +1,6 @@
 * {
-    margin: 0%;
-    padding: 0%;
+   
+    
     box-sizing: border-box;
 }
 
@@ -30,28 +30,35 @@ table {
 
 #one form input {
     width: 92%;
-    padding: 24px;
+    padding: 14px;
     margin: 7px;
     color: black;
-    font-weight: 400;
+    font-weight: 250;
     background-color: #ffffff;
     border: none;
     outline: none;
 }
 
 #two button {
-    margin-right: 30px;
+    margin-right: 23px;
     width: 250px;
-    height: 70px;
-    border-radius: 6px;
+    height: 53px;
     background-color: #5b7bd7;
-    margin-top: 40px;
     margin-bottom: 40px;
     font-size: 24px;
     line-height: 45px;
     color:#ffffff;
      text-align: center;
      cursor: pointer;
+   
 
 
 }
+#two {
+    background-color: #273a71;
+    width: 500px;
+    margin:auto;
+    align-items: center;
+    text-align: center;
+}
+/* one css end */
